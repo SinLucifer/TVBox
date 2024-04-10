@@ -1,11 +1,11 @@
 {
-  "spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/jar/tvbox.txt;md5;056cf130cd8463725c2038c7bc59664f",
+  "spider":"https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/raw/main/jar/tvbox.txt;md5;056cf130cd8463725c2038c7bc59664f",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/live/live.txt",
+      "url": "https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/raw/main/live/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -26,7 +26,7 @@
     {"key":"豆瓣","name":"豆瓣","type": 3,"api":"csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key":"玩偶哥","name":"玩偶哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$关"},
     {"key":"csp_NanGua","name":"南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/nmys.json"},
+    {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/raw/main/json/nmys.json"},
     {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"酷看","name":"酷看","type": 3,"api":"csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key":"白嫖","name":"白嫖","type": 3,"api":"csp_BaiPiao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext":"https://www.baipiaoys.com/"},
@@ -48,18 +48,18 @@
     {"key":"csp_Ysj","name":"异界动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_Anime1","name":"日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable":1},
 
-    {"key":"csp_虎牙","name":"虎牙直播","type": 3,"api":"csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/虎牙直播.json"},
-    {"key":"csp_斗鱼","name":"斗鱼直播","type": 3,"api":"csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/斗鱼直播.json"},
-    {"key":"csp_企鹅体育","name":"企鹅体育","type": 3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/企鹅直播.json"},
-    {"key":"csp_Biliych","name":"看演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/Biliych.json"},
-    {"key":"csp_短视频","name":"短视频","type": 3,"api":"csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/短视频.json"},
+    {"key":"csp_虎牙","name":"虎牙直播","type": 3,"api":"csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/raw/main/json/虎牙直播.json"},
+    {"key":"csp_斗鱼","name":"斗鱼直播","type": 3,"api":"csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/raw/main/json/斗鱼直播.json"},
+    {"key":"csp_企鹅体育","name":"企鹅体育","type": 3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/raw/main/json/企鹅直播.json"},
+    {"key":"csp_Biliych","name":"看演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/raw/main/json/Biliych.json"},
+    {"key":"csp_短视频","name":"短视频","type": 3,"api":"csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/raw/main/json/短视频.json"},
 
-    
-    {"key":"幼儿乐园","name":"幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/幼儿乐园.json"},
-    {"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/少儿教育.json"},
-    {"key":"小学课堂","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/小学课堂.json"},
-    {"key":"初中课堂","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/初中课堂.json"},
-    {"key":"高中教育","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/json/高中课堂.json"},
+
+    {"key":"幼儿乐园","name":"幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/raw/main/json/幼儿乐园.json"},
+    {"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/raw/main/json/少儿教育.json"},
+    {"key":"小学课堂","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/raw/main/json/小学课堂.json"},
+    {"key":"初中课堂","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/raw/main/json/初中课堂.json"},
+    {"key":"高中教育","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://mirror.ghproxy.com/https://github.com/2hacc/TVBox/raw/main/json/高中课堂.json"},
 
     {"key": "新6V","name": "新6V","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
     {"key": "YiSo","name": "易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
@@ -96,7 +96,7 @@
     {"name": "解析23","type": 1,"url": "http://api.888484.xyz/神秘哥哥/super.php?v=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
     {"name":"解析24","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
   ],
-  
+
   "flags":["youku","优酷","优酷视频","qq","腾讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","m1905","xigua","letv","leshi","乐视","sohu","搜狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","bilibili","哔哩","哔哩哔哩","B站","renrenmi","wasu","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","xmm","xigua","m1905","funshion"],
   "ijk":[
     {"group":"软解码","options":[
